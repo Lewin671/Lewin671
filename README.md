@@ -10,7 +10,7 @@
 - 📫 How to reach me: qingyingliu671@foxmail.com
 - 😄 Pronouns: If you can’t explain it simply, you don’t understand it well enough.
 - ⚡ Fun fact: Games, Bicycle
-- 
+
 <!--
 **Lewin671/Lewin671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
